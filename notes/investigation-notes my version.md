@@ -1,5 +1,4 @@
 # Investigation Notes 
----
 
 ## 1. Environment Validation
 
